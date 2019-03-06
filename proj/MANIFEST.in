@@ -1,0 +1,5 @@
+include LICENSE
+includ README.rst
+recursive-include login/temlplates *
+recursive-include login/migrations *
+recursive-include polls/static *
